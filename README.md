@@ -6,6 +6,6 @@ Ah, eu sei que muitos profissionais não são da área da TI e atuam como DPO's 
 
 Meu nome é Fabrizio Rodrigues e sou DPO (ah, já tenho uma longa jornada como programador e especialista em segurança da informação antes da LGPD surgir). Quero muito ajudar os profissionais e as empresas com ferramentas que não custam valores exorbitantes para fazer coisas bacanas e relativamente simples! Se você já passou por dificuldades em busca de ferramentas para auxiliar no seu trabalho com a proteção de dados, venha colaborar com o seu conhecimento.
 
-# Conjunto de ferramentas que compoem o Open LGPD
+# Conjunto de ferramentas que compõem o Open LGPD
 
 - [Status page](https://github.com/fabriziorodrigues/open-lgpd-status-page)
